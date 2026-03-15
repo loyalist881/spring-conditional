@@ -1,0 +1,14 @@
+{
+  "groups": [
+    {
+      "name": "hello",
+      "type": "com.example.springbootdemo.controller.HelloController",
+      "sourceType": "com.example.springbootdemo.controller.HelloController"
+    }
+  ],
+  "properties": [],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}
